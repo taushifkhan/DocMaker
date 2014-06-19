@@ -1,7 +1,8 @@
 %%
-%% This is file `third.bst',
+%% This is file `takh_JCB.bst,
 %% generated with the docstrip utility.
-%%
+%% By Taushif on 19th June,2014 by using latex makebib
+%% ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 %% The original source files were:
 %%
 %% merlin.mbs  (with options: `ay,nat,nm-rvvc,nmlm,x3,m3,keyxyr,dt-beg,yr-per,note-yr,vnum-cm,volp-com,pp-last,num-xser,jnm-x,blk-tit,xedn,jabr,etal-it,nfss,')
